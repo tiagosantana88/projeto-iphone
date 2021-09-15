@@ -20,7 +20,7 @@ body {
 .tela {
     position: relative;
     width: 200px;
-    height: 325px;
+    height: 322px;
     background-color: black;
     border-left: 5px solid white;
     border-right: 5px solid white; 
@@ -40,7 +40,7 @@ img {
     width: 200px;
     height: 45px;
     background-color: white;
-    top: 127px;
+    top: 110px;
     border-top-left-radius: 30px;
     border-top-right-radius: 30px;
 }
@@ -50,7 +50,7 @@ img {
     width: 200px;
     height: 45px;
     background-color: white;
-    bottom: 127px;
+    bottom: 106px;
     border-bottom-left-radius: 30px;
     border-bottom-right-radius: 30px;
 }
@@ -60,7 +60,7 @@ img {
     width: 25px;
     height: 25px;
     border: 2px solid black;
-    bottom: 140px;
+    bottom: 118px;
     left: 670px;
     border-radius: 50%;
 }
@@ -213,7 +213,7 @@ p.config {
     position: absolute;
     content: '';
     width: 200px;
-    height:400px;
+    height:392px;
     border-radius: 26px;
     box-shadow: 0 0 10px 0;
 }
